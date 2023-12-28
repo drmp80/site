@@ -1,0 +1,21 @@
+---
+title: ""
+output: 
+  html_document:
+    toc: FALSE
+---
+
+<img  src="perssonBW.jpg" width="350">
+
+
+Professor and vice head of department at the [Department of political science, University of Gothenburg.](http://www.pol.gu.se)
+
+Co-Head of [The Gothenburg research group on Elections, Public opinion and political behavior (GEPOP).](https://www.gu.se/gepop)
+
+Co-organizer of the annual Nordic Workshop on Political Behavior.
+
+I study political behavior and public opinion. 
+
+My CV can be [downloaded here](cv.pdf)
+
+My Google Scholar profile can be [found here.](https://scholar.google.se/citations?user=CuC_-GQAAAAJ&hl=sv)

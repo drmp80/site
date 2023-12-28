@@ -1,0 +1,24 @@
+---
+title: "Working papers"
+output: html_document
+
+---
+
+Persson, Mikael and Anders Sundell. “What People Want and What They Get: Undersupply of Economically Leftist Policies and Oversupply of Culturally Liberal Policies.” 
+
+Persson, Mikael, Wouter Schakel and Anders Sundell. “A Man’s World? The Policy Representation of Women and Men in a Comparative Perspective.” 
+
+Schakel, Wouter, Mikael Persson and Anders Sundell. “The Economic and Cultural Dimensions of Unequal Representation.” 
+
+Sundell, Anders and Mikael Persson. “Uncovering the Different Faces of Opinion-Policy Congruence.” 
+
+Christensen, Love, Mikael Persson and Jana Schwenk. “Dimensions of Economic Voting.”
+
+Soontjens, Karolin and Mikael Persson. “Drivers of Unequal Responsiveness: A Study of Local Elected Representatives in Belgium and Sweden.”
+
+Wratil, Christopher and Mikael Persson and Wouter Schakel. “Citizen Evaluations of Unequal Policy Representation.”
+
+Wallin, Pontus, Maria Olsson and Mikael Persson. “What are the best ways to teach about democracy? A systematic overview.”
+
+
+---
