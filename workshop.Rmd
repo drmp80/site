@@ -3,9 +3,9 @@ title: "Nordic Workshop on Political Behavior"
 output: html_document
 ---
 
-Together with Love Christensen, Peter Thisted Dinesen and Henning Finseraas, I have founded the Nordic Workshop on Political Behavior (with inspiration from the Toronto Political Behavior Workshop). So far we have held two workshops in Gothenburg, 2020 and 2022.
+Together with Love Christensen, Peter Thisted Dinesen and Henning Finseraas, I have founded the Nordic Workshop on Political Behavior (with inspiration from the Toronto Political Behavior Workshop). So far we have held three workshops in Gothenburg, 2020 and 2022.
 
-# NPBW 2020
+# NPBW 2020 GOTHENBURG
 
 <img  src="npbw.jpeg" width="700">
 
@@ -31,8 +31,8 @@ Mikael Persson
 Licia Bobzien
 Julia Schulte-Cloos
 Peter Dinesen
-
-# NPBW 2020
+ 
+# NPBW 2022 GOTHENBURG
 
 <img  src="npbw22.jpeg" width="700">
 
@@ -61,6 +61,11 @@ Sebastian Jungkun
 Andrej Kokkonen
 Søren Damsbo Svendsen
 Elena Leuschner
+
+# NPBW 2023 COPENHAGEN
+
+<img  src="npbw23.jpg" width="700">
+
 
 #  Motivation
 

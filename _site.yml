@@ -1,10 +1,10 @@
-name: "My new website"
-output_dir: '/'
+name: ""
+output_dir: 'docs'
 output:
   html_document:
-    theme: bootstrap
+    theme: journal
     highlight: zenburn
     toc: true
     toc_depth: 2
-    toc_float:
+    toc_float: 
       collapsed: false

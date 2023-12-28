@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>index.knit</title>
+
+<script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/journal.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Professor Mikael Persson</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="./gepop.html">GEPOP</a>
+</li>
+<li>
+  <a href="./workshop.html">Nordic Workshop on Political Behavior</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+
+</div>
+
+
+<p><img  src="portrait.jpg" width="350"></p>
+<div id="about-me" class="section level1">
+<h1>About me</h1>
+<p>Professor and vice head of department at the <a
+href="http://www.pol.gu.se">Department of political science, University
+of Gothenburg.</a></p>
+<p>Co-Head of <a href="https://www.gu.se/gepop">The Gothenburg research
+group on Elections, Public opinion and political behavior
+(GEPOP).</a></p>
+<p>Co-organizer of the annual Nordic Workshop on Political Behavior.</p>
+<p>I study political behavior and public opinion.</p>
+<p>My CV can be <a href="cv.pdf">downloaded here</a></p>
+<p>My Google Scholar profile can be <a
+href="https://scholar.google.se/citations?user=CuC_-GQAAAAJ&amp;hl=sv">found
+here.</a></p>
+</div>
+<div id="education-and-positions" class="section level1">
+<h1>Education and positions</h1>
+<p>Professor, Political Science, University of Gothenburg, Sweden, May
+2020.</p>
+<p>Associate Professor (Docent), Political Science, University of
+Gothenburg, Sweden, March 2015</p>
+<p>PhD, Political Science, University of Gothenburg, Sweden, December
+2013.</p>
+<p>MA, Practical Philosophy, Lund University, Sweden, March 2007.</p>
+<p>MA, Political Science, Lund University, Sweden, March 2006.</p>
+</div>
+<div id="publications" class="section level1">
+<h1>Publications</h1>
+<p><strong><em>Textbook</em></strong></p>
+<p>Gilljam, Mikael and Mikael Persson. (2015). <a href="dao.pdf">Den
+allmänna opinionen: En introducerande handbok.</a> Stockholm: Liber.
+(Introductory textbook on public opinion research. If you want a printed
+copy, e-mail me and I’ll send you one for free).</p>
+<p><strong><em>Selected journal publications</em></strong></p>
+<p>Persson, Mikael. (Forthcoming). <a href="jepp.pdf">“Who Got What They
+Wanted? \ Investigating the Role of Institutional Agenda Setting, Costly
+Policies, and Status Quo Bias as Explanations to Income Based Unequal
+Responsiveness”</a> <em>Journal of European Public Policy</em>.</p>
+<p>Persson, Mikael and Anders Sundell (Forthcoming). <a
+href="bjps23.pdf">“The Rich Have a Slight Edge: Evidence from
+Comparative Data on Income Based Inequality in Policy Congruence.”</a>
+<em>British Journal of Political Science</em>.</p>
+<p>Guntermann, Eric, and Mikael Persson. 2021. <a href="pb21.pdf">“Issue
+Voting and Government Responsiveness to Policy Preferences.”</a>
+<em>Political Behavior</em>, 1–24.</p>
+<p>Persson, Mikael. 2021. <a href="es21.pdf">“From Opinions to Policies:
+Examining the Links Between Citizens, Representatives, and Policy
+Change.”</a> <em>Electoral Studies</em> 74: 102413.</p>
+<p>Persson, Mikael, Klas Andersson, Pär Zetterberg, Joakim Ekman, and
+Simon Lundin. 2020. <a href="https://gup.ub.gu.se/file/208454">“Does
+Deliberative Education Increase Civic Competence? Results from a Field
+Experiment.”</a> <em>Journal of Experimental Political Science</em> 7
+(3): 199–208.</p>
+<p>Esaiasson, Peter, Mikael Persson, Mikael Gilljam, and Torun Lindholm.
+2019. <a href="bjps19.pdf">“Reconsidering the Role of Procedures for
+Decision Acceptance.”</a> <em>British Journal of Political Science</em>
+49 (1): 291–314.</p>
+<p>Lindgren, Karl-Oskar, Sven Oskarsson, and Mikael Persson. 2019. <a
+href="eer19.pdf">“Access to Education and Political Candidacy: Lessons
+from School Openings in Sweden.”</a> <em>Economics of Education
+Review</em> 69: 138–48.</p>
+<p>Lindgren, Karl-Oskar, Sven Oskarsson, and Mikael Persson. 2019. <a
+href="apsr19.pdf">“Enhancing Electoral Equality: Can Education
+Compensate for Family Background Differences in Voting
+Participation?”</a> <em>American Political Science Review</em> 113 (1):
+108–22.</p>
+<p>Persson, Mikael, and Johan Martinsson. 2018. <a
+href="bjps18.pdf">“Patrimonial Economic Voting and Asset Value–New
+Evidence from Taxation Register Data.”</a> <em>British Journal of
+Political Science</em> 48 (3): 825–42.</p>
+<p>Healy, Andrew J, Mikael Persson, and Erik Snowberg. 2017. <a
+href="apsr17.pdf">“Digging into the Pocketbook: Evidence on Economic
+Voting from Income Registry Data Matched to a Voter Survey.”</a>
+<em>American Political Science Review</em> 111 (4): 771–85.</p>
+<p>Esaiasson, Peter, Mikael Gilljam, and Mikael Persson. 2017. <a
+href="cps17.pdf">“Responsiveness Beyond Policy Satisfaction: Does It
+Matter to Citizens?”</a> <em>Comparative Political Studies</em> 50 (6):
+739–65.</p>
+<p>Esaiasson, Peter, Mikael Gilljam, and Mikael Persson. 2017.
+“Political Support in the Wake of Policy Controversies.” In Myth and
+Reality of the Legitimacy Crisis. Explaining Trends and Cross-National
+Differences in Established Democracies. Oxford University Press.</p>
+<p>Persson, Mikael, Karl-Oskar Lindgren, and Sven Oskarsson. 2016. <a
+href="eer16.pdf">“How Does Education Affect Adolescents’ Political
+Development?”</a> <em>Economics of Education Review</em> 53: 182–93.</p>
+<p>Bakker, Bert N, David Nicolas Hopmann, and Mikael Persson. 2015. <a
+href="ejpr15.pdf">“Personality Traits and Party Identification over
+Time.”</a> <em>European Journal of Political Research</em> 54 (2):
+197–215.</p>
+<p>Persson, Mikael. 2015. <a href="pp15.pdf">“Classroom Climate and
+Political Learning: Findings from a Swedish Panel Study and Comparative
+Data.”</a> <em>Political Psychology</em> 36 (5): 587–601.</p>
+<p>Persson, Mikael. 2015. <a href="bjps15.pdf">“Education and Political
+Participation.”</a> <em>British Journal of Political Science</em> 45
+(3): 689–703.</p>
+<p>Dahlberg, Stefan, and Mikael Persson. 2014. <a
+href="wep14.pdf">“Different Surveys, Different Results? A Comparison of
+Two Surveys on the 2009 European Parliamentary Election.”</a> <em>West
+European Politics</em> 37 (1): 204–21.</p>
+<p>Esaiasson, Peter, and Mikael Persson. 2014. <a
+href="jpse14.pdf">“Does Studying Political Science Affect Civic
+Attitudes?: A Panel Comparison of Students of Politics, Law, and Mass
+Communication.”</a> <em>Journal of Political Science Education</em> 10
+(4): 375–85.</p>
+<p>Persson, Mikael. 2014. <a href="psrm14.pdf">“Does Survey
+Participation Increase Voter Turnout? Re-Examining the Hawthorne Effect
+in the Swedish National Election Studies.”</a> <em>Political Science
+Research and Methods</em> 2 (2): 297.</p>
+<p>Persson, Mikael. 2014. <a href="pp12.pdf">“Social Network Position
+Mediates the Effect of Education on Active Political Party
+Membership.”</a> <em>Party Politics</em> 20 (5): 724–39.</p>
+<p>Persson, Mikael. 2014. <a href="pb14.pdf">“Testing the Relationship
+Between Education and Political Participation Using the 1970 British
+Cohort Study.”</a> <em>Political Behavior</em> 36 (4): 877–97.</p>
+<p>Persson, Mikael, and Maria Solevid. 2014. <a
+href="ijpor.pdf">“Measuring Political Participation—Testing Social
+Desirability Bias in a Web-Survey Experiment.”</a> <em>International
+Journal of Public Opinion Research</em> 26 (1): 98–112.</p>
+<p>Persson, Mikael, Peter Esaiasson, and Mikael Gilljam. 2013. <a
+href="epsr.pdf">“The Effects of Direct Voting and Deliberation on
+Legitimacy Beliefs: An Experimental Study of Small Group
+Decision-Making.”</a> <em>European Political Science Review</em> 5 (3):
+381–99.</p>
+<p>Persson, Mikael. 2013. <a href="ijpor.pdf">“Is the Effect of
+Education on Voter Turnout Absolute or Relative? A Multi-Level Analysis
+of 37 Countries.”</a> <em>Journal of Elections, Public Opinion &amp;
+Parties</em> 23 (2): 111–33.</p>
+<p>Esaiasson, Peter, Mikael Gilljam, and Mikael Persson. 2012. <a
+href="ejpr12.pdf">“Which Decision-Making Arrangements Generate the
+Strongest Legitimacy Beliefs? Evidence from a Randomised Field
+Experiment.”</a> <em>European Journal of Political Research</em> 51 (6):
+785–808.</p>
+<p>Gilljam, Mikael, Mikael Persson, and David Karlsson. 2012. <a
+href="">“Representatives’ Attitudes Toward Citizen Protests in Sweden:
+The Impact of Ideology, Parliamentary Position, and Experiences.”</a>
+<em>Legislative Studies Quarterly</em> 37 (2): 251–68.</p>
+<p>Persson, Mikael. 2012. <a href="">“Does Type of Education Affect
+Political Participation? Results from a Panel Survey of Swedish
+Adolescents.”</a> <em>Scandinavian Political Studies</em> 35 (3):
+198–221.</p>
+<p>Persson, Mikael, and Henrik Oscarsson. 2010. <a href="sps10.pdf">“Did
+the Egalitarian Reforms of the Swedish Educational System Equalise
+Levels of Democratic Citizenship?”</a> <em>Scandinavian Political
+Studies</em> 33 (2): 135–63.</p>
+</div>
+<div id="teaching-and-supervision" class="section level1">
+<h1>Teaching and supervision</h1>
+<p>I have taught about 5000 hours on all levels. I have been supervisor
+for 32 completed student theses. Since 2018 I’m responsible for the PhD
+Program in political science at the University of Gothenburg.</p>
+<p>So for I have supervised the following PhD students:</p>
+<p><em>Main supervisor</em>:</p>
+<p>Moa Frödin Gruneau: Graduated September 2020. Placement after PhD:
+postdoc at University of Gothenburg with funding from the Swedish
+Research Council (VR).</p>
+<p>Love Christensen: Graduated February 2022. Placement after PhD:
+postdoc at Aarhus University, Denmark.</p>
+<p>Laura Lungu: 2018-</p>
+<p>Hilma Lindskog: 2022-</p>
+<p><em>Assistant supervisor</em></p>
+<p>Sebastian Lundmark: Placement after PhD: postdoc at Stanford
+University, US.</p>
+<p>Prisca Jöst: Placement after PhD: postdoc at University of Konstanz,
+Germany.</p>
+<p>Elias Markstedt, sheduled for 2024.</p>
+<p>Eva Hoxha: 2023-.</p>
+<p>Emmi Verleyen: 2022- (University of Antwerp).</p>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

@@ -1,15 +1,9 @@
 name: "Professor Mikael Persson"
 title: "Professor Mikael Persson"
-type: inverse
+type: 
 left:
-  - text: "Publications"
-    href: ./publications.html
-  - text: "Working papers"
-    href: ./wp.html
   - text: "GEPOP"
     href: ./gepop.html
   - text: "Nordic Workshop on Political Behavior"
     href: ./workshop.html
-  - text: "Teaching and supervision"
-    href: ./supervision.html
 right:
