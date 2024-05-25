@@ -3,7 +3,9 @@ title: "Nordic Workshop on Political Behavior"
 output: html_document
 ---
 
+
 ### CALL FOR PAPERS AARHUS OCTOBER 2024
+
 
 Following the workshops in 2020, 2022 and 2023, we are happy to invite proposals to the 4th Nordic Political Behavior Workshop. The workshop takes place at the Department of Political Science, Aarhus University on October 24-25, 2024, and is sponsored by the Carlsberg Foundation. 
  
@@ -17,11 +19,17 @@ Participation in the workshop is free of charge and lunch and refreshments are p
  
 [Submit your abstract here](https://docs.google.com/forms/d/e/1FAIpQLSdhejH7kCi1-4Cee2tgzUsAZEWzTplIBJG3Wxk6dXY6gSk7Jg/viewform) by June 23.
 
- 
+Organizers: 
+
 Love Christensen (Aarhus University) 
+
 Peter Thisted Dinesen (University of Copenhagen)
+
 Henning Finseraas (Norwegian University of Science and Technology)
+
 Mikael Persson (University of Gothenburg)
+
+
 
 # PREVIOUS WORKSHOPS
 
