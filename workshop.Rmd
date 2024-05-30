@@ -1,5 +1,5 @@
 ---
-title: "Nordic Workshop on Political Behavior"
+title: "Nordic Political Behavior Workshop"
 output: html_document
 ---
 
