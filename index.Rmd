@@ -12,11 +12,7 @@ smooth_scroll: true
 
 <img  src="portrait.jpg" width="350">
 
-
-
-#  About me
-
-Professor and vice head of department at the [Department of political science, University of Gothenburg.](http://www.pol.gu.se)
+Professor at the [Department of political science, University of Gothenburg.](http://www.pol.gu.se)
 
 Co-Head of [The Gothenburg research group on Elections, Public opinion and political behavior (GEPOP).](https://www.gu.se/gepop)
 
@@ -29,33 +25,10 @@ My CV can be [downloaded here](cv.pdf)
 My Google Scholar profile can be [found here.](https://scholar.google.se/citations?user=CuC_-GQAAAAJ&hl=sv)
 
 
+##  Selected publications
 
-
-
-#  Education and positions
-
-Professor, Political Science, University of Gothenburg, Sweden, May 2020.
-
-Vice head of department (with responsibility for the graduate studies program)}, Department of political science, University of Gothenburg, Sweden (since July 2018) 
-
-Co-head of the Gothenburg Research Group on Elections, Public Opinion and Political Behavior (GEPOP) (since October 2019)}
-
-Associate Professor (Docent), Political Science, University of Gothenburg, Sweden, March 2015
-
-Research fellow, Department of Government, Uppsala University (part time, 2014-2016).
-
-Visiting Researcher, Department of Economics, Loyola Marymount University, Los Angeles. Fall 2015.
-
-Visiting Associate, Division of Humanities and Social Sciences, California Institute of Technology, Pasadena. Spring 2014. 
-
-PhD, Political Science, University of Gothenburg, Sweden, December 2013.
-
-MA, Practical Philosophy, Lund University, Sweden, March 2007.
-
-MA, Political Science, Lund University, Sweden, March 2006.
-
-
-#  Selected publications
+Lindqvist, Jesper, Mikael Persson, Wouter Schakel, and Anders Sundell. “Poor Choices?  Examining the Link between Party Choice and Unequal Opinion-Policy Congruencen.” 
+*European Journal of Political Research*.
 
 Lucas, Jack, Lior Sheffer, Peter Loewen, Stefaan Walgrave, Karolin Soontjens, Eran Amsalem, Stefanie Bailer, Nathalie Brack, Christian Breunig, Pirmin Bundi, Linda Coufalová, Patrick Dumont, Sarah Lachance, Miguel Pereira, Mikael Persson, Jean-Benoit Pilet, Anne Rasmussen, Maj-Britt Sterba, and Frédéric Varone. Forthcoming. “Politicians’ Theories of Voting Behavior.” *American Political Science Review*.
 
@@ -128,32 +101,26 @@ Persson, Mikael. 2012. [“Does Type of Education Affect Political Participation
 
 Persson, Mikael, and Henrik Oscarsson. 2010. [“Did the Egalitarian Reforms of the Swedish Educational System Equalise Levels of Democratic Citizenship?”](sps10.pdf) *Scandinavian Political Studies* 33 (2): 135–63.
 
-#  Teaching and supervision
 
-I have taught about 5000 hours on all levels. I have been supervisor for 32 completed student theses. Since 2018 I'm responsible for the PhD Program in political science at the University of Gothenburg.
+#  Education and positions
 
-So for I have supervised the following PhD students:
+Professor, Political Science, University of Gothenburg, Sweden, since May 2020.
 
-*Main supervisor*: 
+Vice head of department (with responsibility for the graduate studies program}, Department of political science, University of Gothenburg, Sweden (2018-2024). 
 
-Moa Frödin Gruneau: Graduated September 2020. Placement after PhD: postdoc at University of Gothenburg with funding from the Swedish Research Council (VR). 
+Co-head of the Gothenburg Research Group on Elections, Public Opinion and Political Behavior (GEPOP) (since October 2019)}
 
-Love Christensen: Graduated February 2022. Placement after PhD: postdoc at Aarhus University, Denmark.
+Associate Professor (Docent), Political Science, University of Gothenburg, Sweden, March 2015
 
-Laura Lungu: 2018-
+Research fellow, Department of Government, Uppsala University (2014-2016).
 
-Hilma Lindskog: 2022-
+Visiting Researcher, Department of Economics, Loyola Marymount University, Los Angeles. Fall 2015.
 
-*Assistant supervisor*
+Visiting Associate, Division of Humanities and Social Sciences, California Institute of Technology, Pasadena. Spring 2014. 
 
-Sebastian Lundmark: Placement after PhD: postdoc at Stanford University, US. 
+PhD, Political Science, University of Gothenburg, Sweden, December 2013.
 
-Prisca Jöst: Placement after PhD: postdoc at University of Konstanz, Germany.
+MA, Practical Philosophy, Lund University, Sweden, March 2007.
 
-Elias Markstedt, sheduled for 2024.
-
-Eva Hoxha: 2023-.
-
-Emmi Verleyen: 2022- (University of Antwerp).
-
+MA, Political Science, Lund University, Sweden, March 2006.
 
