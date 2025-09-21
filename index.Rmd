@@ -5,30 +5,40 @@ output:
     toc: true
     toc_float: true
     css: styles.css
+    includes:
+      in_header: fontawesome.html
     collapsed: true
     smooth_scroll: true
+    toc_depth: 2 
 ---
-
 <img  src="portrait.jpg" width="350">
 
 # About me
 
 Professor at the [Department of political science, University of Gothenburg.](http://www.pol.gu.se)
 
+My research focuses on political behavior, public opinion, and political representation,  
+
 Co-Head of [The Gothenburg research group on Elections, Public opinion and political behavior (GEPOP).](https://www.gu.se/gepop)
 
 Co-organizer of the annual Nordic Workshop on Political Behavior.
-
-I study political behavior and public opinion. 
 
 My CV can be [downloaded here](cv.pdf)
 
 My Google Scholar profile can be [found here.](https://scholar.google.se/citations?user=CuC_-GQAAAAJ&hl=sv)
 
+**Connect:**  
+<a href="mailto:mikael.persson.3@gu.se"><i class="fa-solid fa-envelope"></i></a>
+<a href="https://orcid.org/0000-0002-5377-2173"><i class="fa-brands fa-orcid"></i></a>
+<a href="https://x.com/ProfPersson"><i class="fa-brands fa-x-twitter"></i></a>
+<a href="https://bsky.app/profile/professormpersson.bsky.social">
+  <i class="fa-solid fa-dove"></i>
+<a href="https://scholar.google.se/citations?user=CuC_-GQAAAAJ&hl=sv"><i class="fa-brands fa-google"></i></a>
+</a>
 
 # Current projects
 
-**Principal Investigator** for the Swedish National Election Study 2026  
+**Co-Principal Investigator** for the Swedish National Election Study 2026  
 
 **Principal Investigator** for the Swedish part of POLPOP III (led by Stefaan Walgrave, University of Antwerp), supported by the ERC Advanced Grant *How politicians evaluate public opinion*  
 
@@ -38,7 +48,7 @@ My Google Scholar profile can be [found here.](https://scholar.google.se/citatio
 
 **[Is it the Quantity or the Quality of Public Opinion that Counts? Elected Representatives’ Criteria to Evaluate Public Opinion]**
 *West European Politics (Forthcoming)*  
-Anne Rasmussen, Mikael Persson, Frédéric Varone, Emmi Verleyen, Stefaan Walgrave
+Anne Rasmussen, Mikael Persson, Frédéric Varone, Emmi Verleyen, and Stefaan Walgrave
 
 **[Blocking the Poor: Status Quo Bias in Policy Congruence]**  
 *Policy Studies Journal (Forthcoming)*  
@@ -57,51 +67,51 @@ Jesper Lindqvist, Mikael Persson, Wouter Schakel, and Anders Sundell
 Jack Lucas, Lior Sheffer, Peter Loewen, Stefaan Walgrave, Karolin Soontjens, Eran Amsalem, Stefanie Bailer, Nathalie Brack, Christian Breunig, Pirmin Bundi, Linda Coufalová, Patrick Dumont, Sarah Lachance, Miguel Pereira, Mikael Persson, Jean-Benoit Pilet, Anne Rasmussen, Maj-Britt Sterba, and Frédéric Varone
 
 **[The Economic and Cultural Dimensions of Unequal Representation](https://doi.org/10.1093/ser/mwad039)**  
-*Socio-Economic Review (Forthcoming)*  
+*Socio-Economic Review (2024) 22(1): mwae043. *  
 Wouter Schakel, Mikael Persson and Anders Sundell
 
 **[Is Opinion-Policy Congruence Rewarded at the Ballot Box?](https://www.sciencedirect.com/science/article/abs/pii/S0261379424000519)**  
-*Electoral Studies (Forthcoming)*  
+*Electoral Studies (2024) 90: 102793.*  
 Jesper Lindqvist, Mikael Persson and Anders Sundell
 
 **[Lacking Incentives, not Information: Why politicians are less responsive to lower income citizens](https://onlinelibrary.wiley.com/doi/10.1111/lsq.12450)**  
-*Legislative Studies Quarterly (Forthcoming)*  
+*Legislative Studies Quarterly (2024) 49(2): 815–834.*  
 Karolin Soontjens and Mikael Persson
 
 **[A Man’s World? The Policy Representation of Women and Men in a Comparative Perspective](https://www.cambridge.org/core/journals/perspectives-on-politics/article/mans-world-the-policy-representation-of-women-and-men-in-a-comparative-perspective/38391ACFA0194BFDE47EEE0E3A35D508)**  
-*Perspectives on Politics (Forthcoming)*  
+*Perspectives on Politics (2024) 22(1): 11–27.*  
 Mikael Persson, Wouter Schakel and Anders Sundell
 
-**[Who Got What They Wanted? Investigating the Role of Institutional Agenda Setting, Costly Policies, and Status Quo Bias as Explanations to Income Based Unequal Responsiveness](https://www.tandfonline.com/doi/full/10.1080/13501763.2023.2177323)**  
-*Journal of European Public Policy (Forthcoming)*  
-Mikael Persson
-
 **[The Rich Have a Slight Edge: Evidence from Comparative Data on Income Based Inequality in Policy Congruence](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/rich-have-a-slight-edge-evidence-from-comparative-data-on-incomebased-inequality-in-policy-congruence/A09095FC0874B162149014212872BE86)**  
-*British Journal of Political Science (Forthcoming)*  
+*British Journal of Political Science (Forthcoming) (2024) 54(2): 514–525.*  
 Mikael Persson and Anders Sundell
 
+**[Who Got What They Wanted? Investigating the Role of Institutional Agenda Setting, Costly Policies, and Status Quo Bias as Explanations to Income Based Unequal Responsiveness](https://www.tandfonline.com/doi/full/10.1080/13501763.2023.2177323)**  
+*Journal of European Public Policy (2023) 31(7): 1879–1901.*  
+Mikael Persson
+
 **[Issue Voting and Government Responsiveness to Policy Preferences](https://link.springer.com/article/10.1007/s11109-021-09716-8)**  
-*Political Behavior (2021): 1–24*  
+*Political Behavior (2021): 1–24.*  
 Eric Guntermann and Mikael Persson
 
 **[From Opinions to Policies: Examining the Links Between Citizens, Representatives, and Policy Change](https://doi.org/10.1016/j.electstud.2021.102413)**  
-*Electoral Studies 74 (2021): 102413*  
+*Electoral Studies 74 (2021): 102413.*  
 Mikael Persson
 
 **[Does Deliberative Education Increase Civic Competence? Results from a Field Experiment](https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/abs/does-deliberative-education-increase-civic-competence-results-from-a-field-experiment/D5775D901B2B5C9EF3CC3CC6973D7E7A)**  
-*Journal of Experimental Political Science (2020) 7(3): 199–208*  
+*Journal of Experimental Political Science (2020) 7(3): 199–208.*  
 Mikael Persson, Klas Andersson, Pär Zetterberg, Joakim Ekman and Simon Lundin
 
 **[Reconsidering the Role of Procedures for Decision Acceptance](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/reconsidering-the-role-of-procedures-for-decision-acceptance/A39F7FB7B150F7D229E936E421E1F4DC)**  
-*British Journal of Political Science (2019) 49(1): 291–314*  
+*British Journal of Political Science (2019) 49(1): 291–314.*  
 Peter Esaiasson, Mikael Persson, Mikael Gilljam and Torun Lindholm
 
 **[Access to Education and Political Candidacy: Lessons from School Openings in Sweden](https://doi.org/10.1016/j.econedurev.2018.12.006)**  
-*Economics of Education Review 69 (2019): 138–48*  
+*Economics of Education Review 69 (2019): 138–48.*  
 Karl-Oskar Lindgren, Sven Oskarsson and Mikael Persson
 
 **[Enhancing Electoral Equality: Can Education Compensate for Family Background Differences in Voting Participation?](https://www.cambridge.org/core/journals/american-political-science-review/article/enhancing-electoral-equality-can-education-compensate-for-family-background-differences-in-voting-participation/2D20C8206D8F80AD45D5614C2E4FBEBD)**  
-*American Political Science Review (2019) 113(1): 108–22*  
+*American Political Science Review (2019) 113(1): 108–22.*  
 Karl-Oskar Lindgren, Sven Oskarsson and Mikael Persson
 
 **[Patrimonial Economic Voting and Asset Value–New Evidence from Taxation Register Data](https://mikaelpersson.org/bjps18.pdf)**  
@@ -174,7 +184,7 @@ Peter Esaiasson, Mikael Gilljam and Mikael Persson
 
 **[The Generational Effect in Turnout in the Swedish Parliamentary Elections 1960–2010](https://onlinelibrary.wiley.com/doi/10.1111/1467-9477.12005)**  
 *Scandinavian Political Studies (2013) 36(3): 249–269.*  
-ersson, Mikael, Hanna Wass, och Henrik Oscarsson
+ersson, Mikael, Hanna Wass, and Henrik Oscarsson
 
 **[Representatives’ Attitudes Toward Citizen Protests in Sweden: The Impact of Ideology, Parliamentary Position, and Experiences](https://onlinelibrary.wiley.com/doi/10.1111/j.1939-9162.2012.00045.x)**  
 *Legislative Studies Quarterly (2012) 37 (2): 251–68.*  
@@ -199,21 +209,21 @@ Mikael Persson and Henrik Oscarsson
 
 #  Selected Book Chapters
 
-**The socialization effect of education on authoritarian-libertarian values**  
+**[The socialization effect of education on authoritarian-libertarian values](https://gupea.ub.gu.se/bitstream/handle/2077/87932/Chapter%208.pdf?sequence=1&isAllowed=y)**  
 in *Research Handbook on Education and Democracy* Janmaat, J.G., and Dijkstra, A.B. (Eds.). (2005). pp. 45–68. Cheltenham: Edward Elgar.  
 Hilma Lindskog and Mikael Persson
 
-**Education and political participation revisited**  
+**[Education and political participation revisited](https://gupea.ub.gu.se/handle/2077/87933?locale-attribute=sv)**  
 in *Research Handbook on Education and Democracy* Janmaat, J.G., and Dijkstra, A.B. (Eds.). (2005). pp. 69–92. Cheltenham: Edward Elgar.  
 Mikael Persson and Hilma Lindskog
 
-**Which teaching practices promote students’ democracy learning? A systematic review**  
+**[Which teaching practices promote students’ democracy learning? A systematic review](https://gupea.ub.gu.se/bitstream/handle/2077/87860/handbook.pdf)**  
 in *Research Handbook on Education and Democracy* Janmaat, J.G., and Dijkstra, A.B. (Eds.). (2005). pp. 93–118. Cheltenham: Edward Elgar.  
 Pontus Wallin, Maria Olsson, and Mikael Persson
 
 **[Unequal Responsiveness and Government Partisanship in Northwest Europe](https://www.cambridge.org/core/books/unequal-democracies/unequal-responsiveness-and-government-partisanship-in-northwest-europe/60602D94767352D390DA80929E8F0E7B)**  
 in *Unequal Democracies: Public Policy, Responsiveness, and Redistribution in an Era of Rising Economic Inequality* Lupu, Noam, and Pontusson, Jonas (Eds.). (2024). pp. 29–53. Cambridge: Cambridge University Press. 
-Ruben Mathisen, Wouter Schakel, Svenja Hense, Lea Elsässer, Mikael Persson and Jonas Pontusson
+Ruben Mathisen, Wouter Schakel, Svenja Hense, Lea Elsässer, Mikael Persson, and Jonas Pontusson
 
 **Political Support in the Wake of Controversial Policy Proposals – A Fire House Study of Protesters in Suburbia**  
 in *Myth and Reality of the Legitimacy Crisis: Explaining trends and cross-national differences in established democracies* van Ham, Carolien, Thomassen, Jacques, Aarts, Kees, and Andeweg, Rudy (Eds.). (2015). pp. 172–192. Oxford: Oxford University Press.  
