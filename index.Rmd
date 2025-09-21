@@ -4,13 +4,14 @@ output:
   html_document:
     toc: true
     toc_float: true
-collapsed: true
-smooth_scroll: true
-
-
+    css: styles.css
+    collapsed: true
+    smooth_scroll: true
 ---
 
 <img  src="portrait.jpg" width="350">
+
+# About me
 
 Professor at the [Department of political science, University of Gothenburg.](http://www.pol.gu.se)
 
@@ -25,102 +26,234 @@ My CV can be [downloaded here](cv.pdf)
 My Google Scholar profile can be [found here.](https://scholar.google.se/citations?user=CuC_-GQAAAAJ&hl=sv)
 
 
-##  Selected publications
+# Current projects
 
-Lindqvist, Jesper, Mikael Persson, Wouter Schakel, and Anders Sundell. “Poor Choices?  Examining the Link between Party Choice and Unequal Opinion-Policy Congruencen.” 
-*European Journal of Political Research*.
+**Principal Investigator** for the Swedish National Election Study 2026  
 
-Lucas, Jack, Lior Sheffer, Peter Loewen, Stefaan Walgrave, Karolin Soontjens, Eran Amsalem, Stefanie Bailer, Nathalie Brack, Christian Breunig, Pirmin Bundi, Linda Coufalová, Patrick Dumont, Sarah Lachance, Miguel Pereira, Mikael Persson, Jean-Benoit Pilet, Anne Rasmussen, Maj-Britt Sterba, and Frédéric Varone. Forthcoming. “Politicians’ Theories of Voting Behavior.” *American Political Science Review*.
+**Principal Investigator** for the Swedish part of POLPOP III (led by Stefaan Walgrave, University of Antwerp), supported by the ERC Advanced Grant *How politicians evaluate public opinion*  
 
-Schakel, Wouter, Mikael Persson and Anders Sundell. (Forthcoming). “The Economic and Cultural Dimensions of Unequal Representation.” *Socio-Economic Review*.
+**Principal Investigator** for the project **Debtors as voters: How does rising household debt impact political behaviour?**, financed by Vetenskapsrådet (The Swedish Research Council)
 
-Lindqvist, Jesper, Mikael Persson and Anders Sundell. (Forthcoming). “Is Opinion-Policy Congruence Rewarded at the Ballot Box?" *Electoral Studies*.
+#  Articles in Refereed Journals
 
-Soontjens, Karolin and Mikael Persson. (Forthcoming). "Lacking Incentives, not Information: Why politicians are less responsive to lower income citizens." *Legislative Studies Quarterly*. 
+**[Is it the Quantity or the Quality of Public Opinion that Counts? Elected Representatives’ Criteria to Evaluate Public Opinion]**
+*West European Politics (Forthcoming)*  
+Anne Rasmussen, Mikael Persson, Frédéric Varone, Emmi Verleyen, Stefaan Walgrave
 
-Mathisen, Ruben, Wouter Schakel, Svenja Hense, Lea Elsässer, Mikael Persson and Jonas Pontusson. (2023). ["Unequal Responsiveness and Government Partisanship in Northwest Europe"](https://www.cambridge.org/core/books/unequal-democracies/unequal-responsiveness-and-government-partisanship-in-northwest-europe/60602D94767352D390DA80929E8F0E7B), in Noam Lupu and Jonas Pontusson (eds.), *Unequal Democracies: Public Policy, Responsiveness, and Redistribution in an Era of Rising Economic Inequality* (pp. 29–53). Cambridge: Cambridge University Press.
+**[Blocking the Poor: Status Quo Bias in Policy Congruence]**  
+*Policy Studies Journal (Forthcoming)*  
+Mikael Persson and Anders Sundell
 
-Persson, Mikael, Wouter Schakel and Anders Sundell (Forthcoming). [“A Man’s World? The Policy Representation of Women and Men in a Comparative Perspective."](https://www.cambridge.org/core/journals/perspectives-on-politics/article/mans-world-the-policy-representation-of-women-and-men-in-a-comparative-perspective/38391ACFA0194BFDE47EEE0E3A35D508) *Perspectives on Politics*.
+**[Ideological Bias in Policy Implementation: Public Opinion and Policy Outcomes in 43 Democracies](https://www.tandfonline.com/doi/full/10.1080/01402382.2025.2548607)**  
+*West European Politics (Forthcoming)*  
+Mikael Persson and Anders Sundell
+
+**[Poor Choices? Examining the electoral connection behind unequal policy representation](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.70015)**  
+*European Journal of Political Research (Forthcoming)*  
+Jesper Lindqvist, Mikael Persson, Wouter Schakel, and Anders Sundell
+
+**[Politicians’ Theories of Voting Behavior](https://www.cambridge.org/core/journals/american-political-science-review/article/politicians-theories-of-voting-behavior/E73E1B173B30EC11DFB413FA3E3160D1)**  
+*American Political Science Review (2025) 119(3):1304-1321*  
+Jack Lucas, Lior Sheffer, Peter Loewen, Stefaan Walgrave, Karolin Soontjens, Eran Amsalem, Stefanie Bailer, Nathalie Brack, Christian Breunig, Pirmin Bundi, Linda Coufalová, Patrick Dumont, Sarah Lachance, Miguel Pereira, Mikael Persson, Jean-Benoit Pilet, Anne Rasmussen, Maj-Britt Sterba, and Frédéric Varone
+
+**[The Economic and Cultural Dimensions of Unequal Representation](https://doi.org/10.1093/ser/mwad039)**  
+*Socio-Economic Review (Forthcoming)*  
+Wouter Schakel, Mikael Persson and Anders Sundell
+
+**[Is Opinion-Policy Congruence Rewarded at the Ballot Box?](https://www.sciencedirect.com/science/article/abs/pii/S0261379424000519)**  
+*Electoral Studies (Forthcoming)*  
+Jesper Lindqvist, Mikael Persson and Anders Sundell
+
+**[Lacking Incentives, not Information: Why politicians are less responsive to lower income citizens](https://onlinelibrary.wiley.com/doi/10.1111/lsq.12450)**  
+*Legislative Studies Quarterly (Forthcoming)*  
+Karolin Soontjens and Mikael Persson
+
+**[A Man’s World? The Policy Representation of Women and Men in a Comparative Perspective](https://www.cambridge.org/core/journals/perspectives-on-politics/article/mans-world-the-policy-representation-of-women-and-men-in-a-comparative-perspective/38391ACFA0194BFDE47EEE0E3A35D508)**  
+*Perspectives on Politics (Forthcoming)*  
+Mikael Persson, Wouter Schakel and Anders Sundell
+
+**[Who Got What They Wanted? Investigating the Role of Institutional Agenda Setting, Costly Policies, and Status Quo Bias as Explanations to Income Based Unequal Responsiveness](https://www.tandfonline.com/doi/full/10.1080/13501763.2023.2177323)**  
+*Journal of European Public Policy (Forthcoming)*  
+Mikael Persson
+
+**[The Rich Have a Slight Edge: Evidence from Comparative Data on Income Based Inequality in Policy Congruence](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/rich-have-a-slight-edge-evidence-from-comparative-data-on-incomebased-inequality-in-policy-congruence/A09095FC0874B162149014212872BE86)**  
+*British Journal of Political Science (Forthcoming)*  
+Mikael Persson and Anders Sundell
+
+**[Issue Voting and Government Responsiveness to Policy Preferences](https://link.springer.com/article/10.1007/s11109-021-09716-8)**  
+*Political Behavior (2021): 1–24*  
+Eric Guntermann and Mikael Persson
+
+**[From Opinions to Policies: Examining the Links Between Citizens, Representatives, and Policy Change](https://doi.org/10.1016/j.electstud.2021.102413)**  
+*Electoral Studies 74 (2021): 102413*  
+Mikael Persson
+
+**[Does Deliberative Education Increase Civic Competence? Results from a Field Experiment](https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/abs/does-deliberative-education-increase-civic-competence-results-from-a-field-experiment/D5775D901B2B5C9EF3CC3CC6973D7E7A)**  
+*Journal of Experimental Political Science (2020) 7(3): 199–208*  
+Mikael Persson, Klas Andersson, Pär Zetterberg, Joakim Ekman and Simon Lundin
+
+**[Reconsidering the Role of Procedures for Decision Acceptance](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/reconsidering-the-role-of-procedures-for-decision-acceptance/A39F7FB7B150F7D229E936E421E1F4DC)**  
+*British Journal of Political Science (2019) 49(1): 291–314*  
+Peter Esaiasson, Mikael Persson, Mikael Gilljam and Torun Lindholm
+
+**[Access to Education and Political Candidacy: Lessons from School Openings in Sweden](https://doi.org/10.1016/j.econedurev.2018.12.006)**  
+*Economics of Education Review 69 (2019): 138–48*  
+Karl-Oskar Lindgren, Sven Oskarsson and Mikael Persson
+
+**[Enhancing Electoral Equality: Can Education Compensate for Family Background Differences in Voting Participation?](https://www.cambridge.org/core/journals/american-political-science-review/article/enhancing-electoral-equality-can-education-compensate-for-family-background-differences-in-voting-participation/2D20C8206D8F80AD45D5614C2E4FBEBD)**  
+*American Political Science Review (2019) 113(1): 108–22*  
+Karl-Oskar Lindgren, Sven Oskarsson and Mikael Persson
+
+**[Patrimonial Economic Voting and Asset Value–New Evidence from Taxation Register Data](https://mikaelpersson.org/bjps18.pdf)**  
+*British Journal of Political Science (2018) 48(3): 825–42.*  
+Mikael Persson and Johan Martinsson
+
+**[Digging into the Pocketbook: Evidence on Economic Voting from Income Registry Data Matched to a Voter Survey](https://www.cambridge.org/core/journals/american-political-science-review/article/digging-into-the-pocketbook-evidence-on-economic-voting-from-income-registry-data-matched-to-a-voter-survey/7FF7E7FFFDCA634B79D2289C6880CF3D)**  
+*American Political Science Review (2017) 111(4): 771–85.*  
+Andrew J. Healy, Mikael Persson and Erik Snowberg
+
+**[Responsiveness Beyond Policy Satisfaction: Does It Matter to Citizens?](https://gup.ub.gu.se/file/208460)**  
+*Comparative Political Studies (2017) 50(6): 739–65*  
+Peter Esaiasson, Mikael Gilljam and Mikael Persson
+
+**[How Does Education Affect Adolescents’ Political Development?](https://doi.org/10.1016/j.econedurev.2016.03.006)**  
+*Economics of Education Review (2016) 53 182–93.*  
+Mikael Persson, Karl-Oskar Lindgren and Sven Oskarsson
+
+**[Personality Traits and Party Identification over Time](https://ejpr.onlinelibrary.wiley.com/doi/abs/10.1111/1475-6765.12070)**  
+*European Journal of Political Research (2015) 54(2): 197–215.*  
+Bert N. Bakker, David Nicolas Hopmann and Mikael Persson
+
+**[Classroom Climate and Political Learning: Findings from a Swedish Panel Study and Comparative Data](pp12.pdf)**  
+*Political Psychology (2015) 36(5): 587–601.*  
+Mikael Persson
+
+**[Education and Political Participation](bjps15.pdf)**  
+*British Journal of Political Science (2015) 45(3): 689–703.*  
+Mikael Persson
+
+**[Different Surveys, Different Results? A Comparison of Two Surveys on the 2009 European Parliamentary Election](wep14.pdf)**  
+*West European Politics (2014) 37(1): 204–21.*  
+Stefan Dahlberg and Mikael Persson
+
+**[Does Studying Political Science Affect Civic Attitudes?: A Panel Comparison of Students of Politics, Law, and Mass Communication](jpse14.pdf)**  
+*Journal of Political Science Education (2014) 10(4): 375–85.*  
+Peter Esaiasson and  Mikael Persson
+
+**[Does Survey Participation Increase Voter Turnout? Re-Examining the Hawthorne Effect in the Swedish National Election Studies](psrm14.pdf)**  
+*Political Science Research and Methods (2014) 2(2): 297-307.*  
+Mikael Persson
+
+**[Social Network Position Mediates the Effect of Education on Active Political Party Membership](pp12.pdf)**  
+*Party Politics (2014) 20(5): 724–39.*  
+Mikael Persson
+
+**[Testing the Relationship Between Education and Political Participation Using the 1970 British Cohort Study](pb14.pdf)**  
+*Political Behavior (2014) 36(4): 877–97.*  
+Mikael Persson
+
+**[Measuring Political Participation—Testing Social Desirability Bias in a Web-Survey Experiment](ijpor.pdf)**  
+*International Journal of Public Opinion Research (2014) 26(1): 98–112.*  
+Mikael Persson and Maria Solevid
+
+**[Voter Turnout and Political Equality: Testing the Law of Dispersion in a Swedish Natural Experiment](https://journals.sagepub.com/doi/10.1111/1467-9256.12012)**  
+*Politics (2013) 33(3): 172–184.*  
+Mikael Persson, Maria Solevid, and Richard Öhrvall
+
+**[The Effects of Direct Voting and Deliberation on Legitimacy Beliefs: An Experimental Study of Small Group Decision-Making](epsr.pdf)**    
+*European Political Science Review 2013 5(3): 381–99.*    
+Mikael Persson, Peter Esaiasson and Mikael Gilljam
+
+**[Is the Effect of Education on Voter Turnout Absolute or Relative? A Multi-Level Analysis of 37 Countries](https://gup.ub.gu.se/file/208474)**    
+*Journal of Elections, Public Opinion & Parties (2013) 23 (2): 111–33.*     
+Mikael Persson
+
+**[Which Decision-Making Arrangements Generate the Strongest Legitimacy Beliefs? Evidence from a Randomised Field Experiment](ejpr12.pdf)**  
+*European Journal of Political Research (2012) 51 (6): 785–808.*  
+Peter Esaiasson, Mikael Gilljam and Mikael Persson
+
+**[The Generational Effect in Turnout in the Swedish Parliamentary Elections 1960–2010](https://onlinelibrary.wiley.com/doi/10.1111/1467-9477.12005)**  
+*Scandinavian Political Studies (2013) 36(3): 249–269.*  
+ersson, Mikael, Hanna Wass, och Henrik Oscarsson
+
+**[Representatives’ Attitudes Toward Citizen Protests in Sweden: The Impact of Ideology, Parliamentary Position, and Experiences](https://onlinelibrary.wiley.com/doi/10.1111/j.1939-9162.2012.00045.x)**  
+*Legislative Studies Quarterly (2012) 37 (2): 251–68.*  
+Mikael Gilljam, Mikael Persson, David Karlsson
+
+**[Does Type of Education Affect Political Participation? Results from a Panel Survey of Swedish Adolescents](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9477.2012.00286.x)**  
+*Scandinavian Political Studies (2012) 35 (3): 198–221.*   
+Mikael Persson
+
+**[An Empirical Test of the Relative Education Model in Sweden](https://link.springer.com/article/10.1007/s11109-010-9138-5)**  
+*Political Behavior (2011) 33(3): 455–478.*  
+Mikael Persson
+
+**[The Swedish Pirate Party and the 2009 European Parliament Election: Protest or Issue Voting?](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9256.2011.01411.x)**  
+*Politics (2011) 31(3): 121–128.*  
+Gissur Erlingsson and Mikael Persson
+
+**[Did the Egalitarian Reforms of the Swedish Educational System Equalise Levels of Democratic Citizenship?](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9477.2009.00244.x)**  
+*Scandinavian Political Studies (2010) 33(2): 135–63.*   
+Mikael Persson and Henrik Oscarsson
 
 
-Persson, Mikael (Forthcoming). [“Who Got What They Wanted? Investigating the Role of Institutional Agenda Setting, Costly Policies, and Status Quo Bias as Explanations to Income Based Unequal Responsiveness"](https://www.tandfonline.com/doi/full/10.1080/13501763.2023.2177323) *Journal of European Public Policy*.
+#  Selected Book Chapters
 
-Persson, Mikael and Anders Sundell (Forthcoming). [“The Rich Have a Slight Edge: Evidence from Comparative Data on Income Based Inequality in Policy Congruence."](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/rich-have-a-slight-edge-evidence-from-comparative-data-on-incomebased-inequality-in-policy-congruence/A09095FC0874B162149014212872BE86) *British Journal of Political Science*.
+**The socialization effect of education on authoritarian-libertarian values**  
+in *Research Handbook on Education and Democracy* Janmaat, J.G., and Dijkstra, A.B. (Eds.). (2005). pp. 45–68. Cheltenham: Edward Elgar.  
+Hilma Lindskog and Mikael Persson
 
-Guntermann, Eric, and Mikael Persson. 2021. [“Issue Voting and Government Responsiveness to Policy Preferences.”](https://link.springer.com/article/10.1007/s11109-021-09730-w) *Political Behavior*, 1–24.
+**Education and political participation revisited**  
+in *Research Handbook on Education and Democracy* Janmaat, J.G., and Dijkstra, A.B. (Eds.). (2005). pp. 69–92. Cheltenham: Edward Elgar.  
+Mikael Persson and Hilma Lindskog
 
-Persson, Mikael. 2021. [“From Opinions to Policies: Examining the Links Between Citizens, Representatives, and Policy Change.”](https://www.sciencedirect.com/science/article/pii/S0261379421001256) *Electoral Studies* 74: 102413.
+**Which teaching practices promote students’ democracy learning? A systematic review**  
+in *Research Handbook on Education and Democracy* Janmaat, J.G., and Dijkstra, A.B. (Eds.). (2005). pp. 93–118. Cheltenham: Edward Elgar.  
+Pontus Wallin, Maria Olsson, and Mikael Persson
 
-Persson, Mikael, Klas Andersson, Pär Zetterberg, Joakim Ekman, and Simon Lundin. 2020. [“Does Deliberative Education Increase Civic Competence? Results from a Field Experiment.”](https://gup.ub.gu.se/file/208454) *Journal of Experimental Political Science* 7 (3): 199–208.
+**[Unequal Responsiveness and Government Partisanship in Northwest Europe](https://www.cambridge.org/core/books/unequal-democracies/unequal-responsiveness-and-government-partisanship-in-northwest-europe/60602D94767352D390DA80929E8F0E7B)**  
+in *Unequal Democracies: Public Policy, Responsiveness, and Redistribution in an Era of Rising Economic Inequality* Lupu, Noam, and Pontusson, Jonas (Eds.). (2024). pp. 29–53. Cambridge: Cambridge University Press. 
+Ruben Mathisen, Wouter Schakel, Svenja Hense, Lea Elsässer, Mikael Persson and Jonas Pontusson
 
-Esaiasson, Peter, Mikael Persson, Mikael Gilljam, and Torun Lindholm. 2019. [“Reconsidering the Role of Procedures for Decision Acceptance.”](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/reconsidering-the-role-of-procedures-for-decision-acceptance/A39F7FB7B150F7D229E936E421E1F4DC) *British Journal of Political Science* 49 (1): 291–314.
+**Political Support in the Wake of Controversial Policy Proposals – A Fire House Study of Protesters in Suburbia**  
+in *Myth and Reality of the Legitimacy Crisis: Explaining trends and cross-national differences in established democracies* van Ham, Carolien, Thomassen, Jacques, Aarts, Kees, and Andeweg, Rudy (Eds.). (2015). pp. 172–192. Oxford: Oxford University Press.  
+Peter Esaiasson, Mikael Gilljam, and Mikael Persson
 
-Lindgren, Karl-Oskar, Sven Oskarsson, and Mikael Persson. 2019. [“Access to Education and Political Candidacy: Lessons from School Openings in Sweden.”](eer19) *Economics of Education Review* 69: 138–48.
+**Religion and Political Participation in Sweden**  
+in *Stepping Stones: Research on Political Representation, Voting Behavior, and Quality of Government* Dahlberg, Stefan, Oscarsson, Henrik, and Wängnerud, Lena (Eds.). (2013). pp. 85–104. Gothenburg: Department of Political Science, University of Gothenburg.  
+Donald Granberg and Mikael Persson
 
-Lindgren, Karl-Oskar, Sven Oskarsson, and Mikael Persson. 2019. [“Enhancing Electoral Equality: Can Education Compensate for Family Background Differences in Voting Participation?”](https://www.cambridge.org/core/journals/american-political-science-review/article/enhancing-electoral-equality-can-education-compensate-for-family-background-differences-in-voting-participation/2D20C8206D8F80AD45D5614C2E4FBEBD) *American Political Science Review* 113 (1): 108–22.
+**Communicative Responsiveness and other Important Concepts in Between-Election Democracy**  
+in *Between-Election Democracy: The Representative Relationship after Election Day* Esaiasson, Peter, and Narud, Hanne Marthe (Eds.). (2013). pp. 21–45. Colchester: ECPR Press.  
+Peter Esaiasson, Mikael Gilljam, and Mikael Persson
 
-Persson, Mikael, and Johan Martinsson. 2018. [“Patrimonial Economic Voting and Asset Value–New Evidence from Taxation Register Data.”](bjps18) *British Journal of Political Science* 48 (3): 825–42.
+#  Textbook
 
-Healy, Andrew J, Mikael Persson, and Erik Snowberg. 2017. [“Digging into the Pocketbook: Evidence on Economic Voting from Income Registry Data Matched to a Voter Survey.”](https://www.cambridge.org/core/journals/american-political-science-review/article/digging-into-the-pocketbook-evidence-on-economic-voting-from-income-registry-data-matched-to-a-voter-survey/7FF7E7FFFDCA634B79D2289C6880CF3D) *American Political Science Review* 111 (4): 771–85.
+**[Den allmänna opinionen: En introducerande handbok](dao.pdf)**  
+*Stockholm: Liber (2015)*  
+Mikael Gilljam and Mikael Persson
 
-Esaiasson, Peter, Mikael Gilljam, and Mikael Persson. 2017. [“Responsiveness Beyond Policy Satisfaction: Does It Matter to Citizens?”](https://journals.sagepub.com/doi/10.1177/0010414015626445) *Comparative Political Studies* 50 (6): 739–65.
+# Education and Positions
 
-Esaiasson, Peter, Mikael Gilljam, and Mikael Persson. 2017. [“Political Support in the Wake of Policy Controversies”](https://doi.org/10.1093/oso/9780198793717.003.0010), in Carolien van Ham, and others (eds), *Myth and Reality of the Legitimacy Crisis. Explaining Trends and Cross-National Differences in Established Democracies.* Oxford University Press.
-
-Persson, Mikael, Karl-Oskar Lindgren, and Sven Oskarsson. 2016. [“How Does Education Affect Adolescents’ Political Development?”](eer16.pdf) *Economics of Education Review* 53: 182–93.
-
-Gilljam, Mikael and Mikael Persson. (2015). [Den allmänna opinionen: En introducerande handbok.](dao.pdf) Stockholm: Liber. (Introductory textbook on public opinion research. If you want a printed copy, e-mail me and I'll send you one for free).
-
-Bakker, Bert N, David Nicolas Hopmann, and Mikael Persson. 2015. [“Personality Traits and Party Identification over Time.”](ejpr15.pdf) *European Journal of Political Research* 54 (2): 197–215.
-
-Persson, Mikael. 2015. [“Classroom Climate and Political Learning: Findings from a Swedish Panel Study and Comparative Data.”](pp15.pdf) *Political Psychology* 36 (5): 587–601.
-
-Persson, Mikael. 2015. [“Education and Political Participation.”](bjps15.pdf) *British Journal of Political Science* 45 (3): 689–703.
-
-Dahlberg, Stefan, and Mikael Persson. 2014. [“Different Surveys, Different Results? A Comparison of Two Surveys on the 2009 European Parliamentary Election.”](wep14.pdf) *West European Politics* 37 (1): 204–21.
-
-Esaiasson, Peter, and Mikael Persson. 2014. [“Does Studying Political Science Affect Civic Attitudes?: A Panel Comparison of Students of Politics, Law, and Mass Communication.”](jpse14.pdf) *Journal of Political Science Education* 10 (4): 375–85.
-
-Persson, Mikael. 2014. [“Does Survey Participation Increase Voter Turnout? Re-Examining the Hawthorne Effect in the Swedish National Election Studies.”](psrm14.pdf) *Political Science Research and Methods* 2 (2): 297.
-
-Persson, Mikael. 2014. [“Social Network Position Mediates the Effect of Education on Active Political Party Membership.”](pp12.pdf) *Party Politics* 20 (5): 724–39.
-
-Persson, Mikael. 2014. [“Testing the Relationship Between Education and Political Participation Using the 1970 British Cohort Study.”](pb14.pdf) *Political Behavior* 36 (4): 877–97.
-
-Persson, Mikael, and Maria Solevid. 2014. [“Measuring Political Participation—Testing Social Desirability Bias in a Web-Survey Experiment.”](ijpor.pdf) *International Journal of Public Opinion Research* 26 (1): 98–112.
-
-Persson, Mikael, Peter Esaiasson, and Mikael Gilljam. 2013. [“The Effects of Direct Voting and Deliberation on Legitimacy Beliefs: An Experimental Study of Small Group Decision-Making.”](epsr.pdf) *European Political Science Review* 5 (3): 381–99.
-
-Persson, Mikael. 2013. [“Is the Effect of Education on Voter Turnout Absolute or Relative? A Multi-Level Analysis of 37 Countries.”](https://gup.ub.gu.se/file/208474) *Journal of Elections, Public Opinion & Parties* 23 (2): 111–33.
-
-Esaiasson, Peter, Mikael Gilljam, and Mikael Persson. 2012. [“Which Decision-Making Arrangements Generate the Strongest Legitimacy Beliefs? Evidence from a Randomised Field Experiment.”](ejpr12.pdf) *European Journal of Political Research* 51 (6): 785–808.
-
-Gilljam, Mikael, Mikael Persson, and David Karlsson. 2012. [“Representatives’ Attitudes Toward Citizen Protests in Sweden: The Impact of Ideology, Parliamentary Position, and Experiences.”](https://onlinelibrary.wiley.com/doi/10.1111/j.1939-9162.2012.00045.x) *Legislative Studies Quarterly* 37 (2): 251–68.
-
-Persson, Mikael. 2012. [“Does Type of Education Affect Political Participation? Results from a Panel Survey of Swedish Adolescents.”](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9477.2012.00286.x) *Scandinavian Political Studies* 35 (3): 198–221.
-
-Persson, Mikael, and Henrik Oscarsson. 2010. [“Did the Egalitarian Reforms of the Swedish Educational System Equalise Levels of Democratic Citizenship?”](sps10.pdf) *Scandinavian Political Studies* 33 (2): 135–63.
+**Professor**, Political Science, University of Gothenburg, Sweden (since May 2020)  
+  
+**Vice Head of Department** (responsible for the graduate studies program), Department of Political Science, University of Gothenburg (2018–2024)  
+  
+**Co-Head**, Gothenburg Research Group on Elections, Public Opinion and Political Behavior (GEPOP) (since October 2019)  
+  
+**Associate Professor (Docent)**, Political Science, University of Gothenburg (March 2015)  
+  
+**Research Fellow**, Department of Government, Uppsala University (2014–2016)  
+  
+**Visiting Researcher**, Department of Economics, Loyola Marymount University, Los Angeles (Fall 2015)  
+  
+**Visiting Associate**, Division of Humanities and Social Sciences, California Institute of Technology, Pasadena (Spring 2014)  
+  
+**PhD**, Political Science, University of Gothenburg (December 2013)  
+  
+**MA**, Practical Philosophy, Lund University (March 2007)  
+  
+**MA**, Political Science, Lund University (March 2006)
 
 
-#  Education and positions
-
-Professor, Political Science, University of Gothenburg, Sweden, since May 2020.
-
-Vice head of department (with responsibility for the graduate studies program}, Department of political science, University of Gothenburg, Sweden (2018-2024). 
-
-Co-head of the Gothenburg Research Group on Elections, Public Opinion and Political Behavior (GEPOP) (since October 2019)}
-
-Associate Professor (Docent), Political Science, University of Gothenburg, Sweden, March 2015
-
-Research fellow, Department of Government, Uppsala University (2014-2016).
-
-Visiting Researcher, Department of Economics, Loyola Marymount University, Los Angeles. Fall 2015.
-
-Visiting Associate, Division of Humanities and Social Sciences, California Institute of Technology, Pasadena. Spring 2014. 
-
-PhD, Political Science, University of Gothenburg, Sweden, December 2013.
-
-MA, Practical Philosophy, Lund University, Sweden, March 2007.
-
-MA, Political Science, Lund University, Sweden, March 2006.
 
