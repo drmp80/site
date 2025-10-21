@@ -11,7 +11,7 @@ output:
     smooth_scroll: true
     toc_depth: 2 
 ---
-<img  src="portrait.jpg" width="350">
+<img  src="MikaelPersson2025.jpg" width="500">
 
 # About me
 
