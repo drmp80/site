@@ -1,9 +1,13 @@
 ---
 title: "Gothenburg Research Group on Elections, Public Opinion and Political Behavior (GEPOP)"
-output: html_document
+lang: en
+output:
+  html_document:
+    includes:
+      in_header: favicon.html
 ---
 
-<img  src="gepop.png" width="350">
+<img  src="gepop.png" width="350" alt="GEPOP logo">
 
 # About
 
@@ -11,7 +15,7 @@ The Gothenburg Research Group on Elections, Public Opinion and Political Behavio
 
 # Coordination
 
-GEPOP is coordinated by Henrik Ekengren Oscarsson and Mikael Persson.
+GEPOP is led by Mikael Persson.
 
 # Activities
 
@@ -20,6 +24,6 @@ GEPOP is coordinated by Henrik Ekengren Oscarsson and Mikael Persson.
 - Internal workshops
 - Conferences and other networking activities
 
-<img  src="naas.jpeg" width="900">
+<img  src="naas.jpeg" width="900" alt="Photo from a GEPOP activity">
 
-<img  src="hindas.jpeg" width="900">
+<img  src="hindas.jpeg" width="900" alt="Photo from a GEPOP activity">

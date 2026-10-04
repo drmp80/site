@@ -1,31 +1,33 @@
 ---
 title: "Professor Mikael Persson"
-output: 
+lang: en
+pagetitle: "Mikael Persson – Professor of Political Science, University of Gothenburg"
+output:
   html_document:
     toc: true
     toc_float: true
     css: styles.css
     includes:
-      in_header: fontawesome.html
+      in_header: [fontawesome.html, favicon.html, meta.html]
     collapsed: true
     smooth_scroll: true
     toc_depth: 2 
 ---
-<img  src="MikaelPersson2025.jpg" width="500">
+<img  src="MikaelPersson2025.jpg" width="500" alt="Mikael Persson, Professor of Political Science at the University of Gothenburg">
 
 # About me
 
-Professor at the [Department of political science, University of Gothenburg.](http://www.pol.gu.se)
+I am Mikael Persson, Professor of Political Science at the [Department of Political Science, University of Gothenburg.](https://www.pol.gu.se)
 
-My research focuses on political behavior, public opinion, and political representation,  
+My research focuses on political behavior, public opinion, and political representation.  
 
-Co-Head of [The Gothenburg research group on Elections, Public opinion and political behavior (GEPOP).](https://www.gu.se/forskning/gothenburg-research-group-on-elections-public-opinion-and-political-behavior-gepop)
+Head of [The Gothenburg research group on Elections, Public opinion and political behavior (GEPOP).](https://www.gu.se/forskning/gothenburg-research-group-on-elections-public-opinion-and-political-behavior-gepop)
 
 Co-organizer of the annual Nordic Workshop on Political Behavior.
 
-My CV can be [downloaded here](cv.pdf)
+[Download my CV (pdf)](cv.pdf)
 
-My Google Scholar profile can be [found here.](https://scholar.google.se/citations?user=CuC_-GQAAAAJ&hl=sv)
+[Mikael Persson on Google Scholar](https://scholar.google.se/citations?user=CuC_-GQAAAAJ&hl=sv)
 
 Email: [mikael@mikaelpersson.org](mailto:mikael@mikaelpersson.org)
 
@@ -37,6 +39,15 @@ Email: [mikael@mikaelpersson.org](mailto:mikael@mikaelpersson.org)
   <i class="fa-solid fa-dove"></i>
 <a href="https://scholar.google.se/citations?user=CuC_-GQAAAAJ&hl=sv"><i class="fa-brands fa-google"></i></a>
 </a>
+
+# What I work on
+
+I work, for example, on:
+
+- **Opinion and policy:** how closely political decisions follow public opinion, and why some groups, in particular those with higher incomes, have more influence than others.
+- **Voters and the economy:** how voters evaluate governments and respond to growth, unemployment, inflation and stock market developments.
+- **Education and participation:** how education affects political engagement and political attitudes, especially among young people.
+- **Elections and vote choice:** turnout and party choice, in Sweden and in comparison with other democracies.
 
 # Current projects
 
@@ -50,9 +61,11 @@ Email: [mikael@mikaelpersson.org](mailto:mikael@mikaelpersson.org)
 
 **Professor**, Political Science, University of Gothenburg, Sweden (since May 2020)  
   
-**Vice Head of Department** (responsible for the graduate studies program), Department of Political Science, University of Gothenburg (2018–2024)  
+**Vice Head of Department** (with responsibility for research and director of the graduate studies program), Department of Political Science, University of Gothenburg (2018–2024)  
   
-**Co-Head**, Gothenburg Research Group on Elections, Public Opinion and Political Behavior (GEPOP) (since October 2019)  
+**Head**, Gothenburg Research Group on Elections, Public Opinion and Political Behavior (GEPOP) (since October 2019)  
+  
+**Editor**, Scandinavian Political Studies (2026–2029)  
   
 **Associate Professor (Docent)**, Political Science, University of Gothenburg (March 2015)  
   
@@ -119,7 +132,7 @@ Karolin Soontjens and Mikael Persson
 Mikael Persson, Wouter Schakel and Anders Sundell
 
 **[The Rich Have a Slight Edge: Evidence from Comparative Data on Income Based Inequality in Policy Congruence](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/rich-have-a-slight-edge-evidence-from-comparative-data-on-incomebased-inequality-in-policy-congruence/A09095FC0874B162149014212872BE86)**  
-*British Journal of Political Science (Forthcoming) (2024) 54(2): 514–525.*  
+*British Journal of Political Science (2024) 54(2): 514–525.*  
 Mikael Persson and Anders Sundell
 
 **[Who Got What They Wanted? Investigating the Role of Institutional Agenda Setting, Costly Policies, and Status Quo Bias as Explanations to Income Based Unequal Responsiveness](https://www.tandfonline.com/doi/full/10.1080/13501763.2023.2177323)**  
@@ -244,6 +257,10 @@ Mikael Persson and Henrik Oscarsson
 
 
 #  Selected Book Chapters
+
+**Responsiveness**  
+in *IPSA Companion to Political Science: A Practical Introduction to the 200 Most Important Concepts* Stockemer, D., Sawyer, S., and Gagnon, A. (Eds.). (2026). pp. 1–4. Springer.  
+Mikael Persson and Anders Sundell
 
 **[The socialization effect of education on authoritarian-libertarian values](https://gupea.ub.gu.se/bitstream/handle/2077/87932/Chapter%208.pdf?sequence=1&isAllowed=y)**  
 in *Research Handbook on Education and Democracy* Janmaat, J.G., and Dijkstra, A.B. (Eds.). (2005). pp. 45–68. Cheltenham: Edward Elgar.  

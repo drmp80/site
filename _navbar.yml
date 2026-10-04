@@ -2,8 +2,8 @@ name: "Professor Mikael Persson"
 title: "Professor Mikael Persson"
 type: 
 left:
-  - text: "GEPOP"
-    href: ./gepop.html
   - text: "NPBW"
     href: ./workshop.html
+  - text: "Svenska"
+    href: ./sv.html
 right:

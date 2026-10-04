@@ -1,36 +1,41 @@
 ---
 title: "Nordic Political Behavior Workshop"
-output: html_document
+pagetitle: "Nordic Political Behavior Workshop (NPBW)"
+lang: en
+output:
+  html_document:
+    includes:
+      in_header: [favicon.html, meta-npbw.html]
 ---
 
 Together with Love Christensen, Peter Thisted Dinesen and Henning Finseraas, I have founded the Nordic Political Behavior Workshop (with inspiration from the Toronto Political Behavior Workshop). So far we have held six workshops.
 
 # NPBW 2026 COPENHAGEN
 
-<img  src="npbw26.jpg" width="700">
+<img  src="npbw26.jpg" width="700" alt="Participants at the Nordic Political Behavior Workshop 2026 in Copenhagen">
 
 
 # NPBW 2025 TRONDHEIM
 
-<img  src="npbw25.jpeg" width="700">
+<img  src="npbw25.jpeg" width="700" alt="Participants at the Nordic Political Behavior Workshop 2025 in Trondheim">
 
 
 # NPBW 2024 AARHUS
 
-<img  src="npbw24.jpeg" width="700">
+<img  src="npbw24.jpeg" width="700" alt="Participants at the Nordic Political Behavior Workshop 2024 in Aarhus">
 
 
 # NPBW 2023 COPENHAGEN
 
-<img  src="npbw23.jpeg" width="700">
+<img  src="npbw23.jpeg" width="700" alt="Participants at the Nordic Political Behavior Workshop 2023 in Copenhagen">
 
 # NPBW 2022 GOTHENBURG
 
-<img  src="npbw22.jpeg" width="700">
+<img  src="npbw22.jpeg" width="700" alt="Participants at the Nordic Political Behavior Workshop 2022 in Gothenburg">
 
 # NPBW 2020 GOTHENBURG
 
-<img  src="npbw.jpeg" width="700">
+<img  src="npbw.jpeg" width="700" alt="Participants at the Nordic Political Behavior Workshop 2020 in Gothenburg">
 
 
 
