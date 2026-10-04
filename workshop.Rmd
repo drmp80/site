@@ -5,6 +5,11 @@ output: html_document
 
 Together with Love Christensen, Peter Thisted Dinesen and Henning Finseraas, I have founded the Nordic Political Behavior Workshop (with inspiration from the Toronto Political Behavior Workshop). So far we have held five workshops.
 
+# NPBW 2026 COPENHAGEN
+
+<img  src="npbw26.jpg" width="700">
+
+
 # NPBW 2025 TRONDHEIM
 
 <img  src="npbw25.jpeg" width="700">
