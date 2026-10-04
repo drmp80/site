@@ -27,7 +27,9 @@ My CV can be [downloaded here](cv.pdf)
 
 My Google Scholar profile can be [found here.](https://scholar.google.se/citations?user=CuC_-GQAAAAJ&hl=sv)
 
-**Connect:**  
+Email: [mikael@mikaelpersson.org](mailto:mikael@mikaelpersson.org)
+
+**Connect:**
 <a href="mailto:mikael.persson.3@gu.se"><i class="fa-solid fa-envelope"></i></a>
 <a href="https://orcid.org/0000-0002-5377-2173"><i class="fa-brands fa-orcid"></i></a>
 <a href="https://x.com/ProfPersson"><i class="fa-brands fa-x-twitter"></i></a>
@@ -70,7 +72,7 @@ My Google Scholar profile can be [found here.](https://scholar.google.se/citatio
 #  Articles in Refereed Journals
 
 **[Making Sense of the Macroeconomy: Experimental Evidence on Voter Responses to Growth, Unemployment, Inflation, and Stock Markets]**  
-*Political Science Research and Methids (Forthcoming)*.  
+*Political Science Research and Methods (Forthcoming)*.  
 Love Christensen, Mikael Persson, and Jana Schwenk
 
 
@@ -81,19 +83,19 @@ Love Christensen, Mikael Persson, and Jana Schwenk
 Jesper Lindqvist, Jennifer Oser, Ruth Dassonneville, Mikael Persson, and Anders Sundell
 
 **[What matters more to politicians: the quantity or quality of public opinion signals?](https://www.tandfonline.com/doi/full/10.1080/01402382.2025.2563983)**
-*West European Politics (2025), published online 3 Oct*  
+*West European Politics (2025)*  
 Anne Rasmussen, Mikael Persson, Frédéric Varone, Emmi Verleyen, and Stefaan Walgrave
 
 **[Blocking the Poor: Status Quo Bias in Policy Congruence](https://doi.org/10.1111/psj.70083)**  
 *Policy Studies Journal (Forthcoming)*  
 Mikael Persson and Anders Sundell
 
-**[Ideological Bias in Policy Implementation: Public Opinion and Policy Outcomes in 43 Democracies](https://www.tandfonline.com/doi/full/10.1080/01402382.2025.2548607)**  
-*West European Politics (Forthcoming)*  
+**[Ideological Bias in Policy Implementation: Public Opinion and Policy Outcomes in 43 Democracies](https://doi.org/10.1080/01402382.2025.2548607)**  
+*West European Politics (2026) 49(7): 1824–1838.*  
 Mikael Persson and Anders Sundell
 
-**[Poor Choices? Examining the electoral connection behind unequal policy representation](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.70015)**  
-*European Journal of Political Research (Forthcoming)*  
+**[Poor Choices? Examining the electoral connection behind unequal policy representation](https://doi.org/10.1111/1475-6765.70015)**  
+*European Journal of Political Research (2025) 64(4): 2093–2105.*  
 Jesper Lindqvist, Mikael Persson, Wouter Schakel, and Anders Sundell
 
 **[Politicians’ Theories of Voting Behavior](https://www.cambridge.org/core/journals/american-political-science-review/article/politicians-theories-of-voting-behavior/E73E1B173B30EC11DFB413FA3E3160D1)**  
